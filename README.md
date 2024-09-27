@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Business Science
 - 💞️ I’m looking to collaborate on Business Intelligence projects
 - 📫 Reach me on - Email (brianzharare@gmail.com)
--                - LinkedIn (https://www.linkedin.com/in/brian-zharare-514b86262)
 - ⚡ Fun fact: I'm a Chess Guru
 
 <!---
